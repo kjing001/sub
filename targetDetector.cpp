@@ -9,7 +9,7 @@
 #include <opencv/cv.h>
 #include <opencv2/opencv.hpp>
 
-#include "vision.h"
+#include "targetDetector.h"
 
 using namespace cv;
 using namespace std;
